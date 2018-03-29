@@ -1,3 +1,7 @@
 def reformat_languages(languages)
-  # your code here
+  newHash = {}
+
+
+
+  return newHash
 end
